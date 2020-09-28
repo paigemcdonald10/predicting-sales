@@ -33,11 +33,11 @@ As time series predictions can be prone to predicting well in short-term forecas
 
 Graph 1: The predictions of my optimized Facebook Prophet Model for the test set of sales of dairy at store 37.
  
-<img src="Users/paigemcdonald/Documents⁩/BrainStation⁩/Student⁩/Capstone⁩/Final Submission⁩/graph1.png">
+<img src="Users/paigemcdonald/Documents⁩/BrainStation⁩/Student⁩/Capstone⁩/FinalSubmission⁩/graph1.png">
 
 Graph 2: The MAPE of my optimized Facebook Prophet Model for sales of dairy at store 37 when forecasting sales 37 to 365 days in the future.
 
-<img src="Users/paigemcdonald/Documents⁩/BrainStation⁩/Student⁩/Capstone⁩/Final Submission⁩/graph2.png">
+<img src="Users/paigemcdonald/Documents⁩/BrainStation⁩/Student⁩/Capstone⁩/FinalSubmission⁩/graph2.png">
  
 # Findings and Conclusions 
 
