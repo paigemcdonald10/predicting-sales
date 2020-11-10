@@ -1,6 +1,6 @@
 # predicting-sales
 
-# Directory information
+# Directory Information
 
 images: contains image files used in report
 
