@@ -1,5 +1,15 @@
 # predicting-sales
 
+# Directory information
+
+images: contains image files used in report
+
+R_markdown.Rmd: contains code for ARIMA models
+
+jupyter_notebook_cleaning_eda.ipynb: contains code for data cleaning and EDA
+
+jupyter_notebook_time_series.ipynb: contains code for Facebook Prophet models
+
 # Summary
 
 Exploratory data analysis and time series modeling with ARIMA and Facebook Prophet models to predict the sale of perishable grocery store items, with weather data added to improve predictions.
